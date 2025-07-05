@@ -4823,5 +4823,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sivadharshini</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/cwklurks">
+                    <img src="https://avatars.githubusercontent.com/u/147788030?v=4" width="100px;"
+                        alt="Connor" />
+                    <br />
+                    <sub><b>Connor</b></sub>
+                </a>
+            </td>
     </tbody>
 </table>
